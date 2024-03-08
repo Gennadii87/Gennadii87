@@ -22,3 +22,7 @@ Celery / Pytest / SQL Alchemy
 ### Инфраструктура
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Gennadii87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gennadii87&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
