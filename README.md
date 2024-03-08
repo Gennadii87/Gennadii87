@@ -27,6 +27,6 @@ Celery / Pytest / SQL Alchemy
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gennadii87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gennadii87&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420" height="220" /></a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gennadii87&theme=2077" width="300" height="200">
+<a href="http://www.github.com/Gennadii87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gennadii87&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="auto" height="200" /></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gennadii87&theme=2077" width="auto" height="200">
 
