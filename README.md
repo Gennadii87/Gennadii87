@@ -3,9 +3,11 @@
 <div id="badges">
   <a href="https://t.me/gennadii_s1987" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://www.codewars.com/users/Gennadii87/badges/micro">
   </a>
 </div>
-  <img src="https://www.codewars.com/users/Gennadii87/badges/micro">
+  
+  
 ### Язык, фреймворки и инструменты
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
