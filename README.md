@@ -4,7 +4,7 @@
   <a href="https://t.me/gennadii_s1987" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://www.codewars.com/users/Gennadii87/badges/micro" width="160" height="auto">
+  <img src="https://www.codewars.com/users/Gennadii87/badges/micro" width="170" height="auto">
 </div>
   
   
