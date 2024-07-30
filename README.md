@@ -1,4 +1,4 @@
-## Всем привет! Меня зовут Геннадий 👋
+## Всем привет! Меня зовут Геннадий 👋 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 <div id="badges">
   <a href="https://t.me/gennadii_s1987" target="blank">
