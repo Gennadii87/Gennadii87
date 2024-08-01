@@ -1,4 +1,4 @@
-## Hello 👋, I’m Gennady - a FullStack ![Python](https://img.shields.io/badge/Python-fffff?style=for-the-badge&logo=python&logoColor=ffdd54) developer.
+## Hello 👋, I’m Gennady - a FullStack ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=ffdd54) developer.
 
 <div id="badges">
   <a href="https://t.me/gennadii_s1987" target="blank">
